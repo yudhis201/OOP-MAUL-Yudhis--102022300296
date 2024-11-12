@@ -10,7 +10,7 @@ public class Main {
         hewanUmum.makan("daging");
         hewanUmum.infoHewan();
 
-        System.out.println();
+        System.out.println(".()");
 
         
         kucing.suara();
